@@ -1,0 +1,11 @@
+.weatherForecast {
+  font-family: "PT Mono", monospace;
+}
+.weatherForecastDate {
+  color: #0385b3;
+  font-weight: bold;
+  font-size: 20px;
+}
+.weatherForecastTempMin {
+  opacity: 0.6;
+}
