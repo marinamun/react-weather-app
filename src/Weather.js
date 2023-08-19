@@ -1,6 +1,5 @@
 import React from "react";
 import "./Weather.css";
-import axios from "axios";
 
 export default function Weather() {
   return (
@@ -29,6 +28,7 @@ export default function Weather() {
                   src="http://openweathermap.org/img/wn/03d@2x.png"
                   id="icon"
                   width="20px"
+                  alt=""
                 />
                 <span id="current-temp"></span>
                 <span id="celsius">°C</span>
