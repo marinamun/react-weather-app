@@ -56,7 +56,7 @@ export default function Weather() {
 
       <p className="credits">
         <a
-          href="https://github.com/marinamun/final-weather-app"
+          href="https://github.com/marinamun/react-weather-app"
           target="_blank"
         >
           Open-source code
