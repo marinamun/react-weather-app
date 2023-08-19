@@ -21,7 +21,7 @@ export default function Weather() {
             <div className="col-6">
               <h1>Berlin</h1>
               <br />
-              <h3 id="dateHour"></h3>
+              <h3 id="dateHour">22:22</h3>
               <br />
               <p>
                 <img
