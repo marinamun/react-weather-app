@@ -58,6 +58,7 @@ export default function Weather() {
         <a
           href="https://github.com/marinamun/react-weather-app"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source code
         </a>
