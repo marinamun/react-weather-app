@@ -1,3 +1,36 @@
-.container{
-    border: solid 1px #C54C82;
+.weather {
+  border: solid 1px #c54c82;
+  font-family: "PT Mono", monospace;
+  padding: 16px;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+.weather h1 {
+  color: #c54c82;
+  margin: 20px 0 0 0;
+  font-size: 24px;
+  line-height: 29px;
+}
+.weather ul {
+  margin: 0;
+  padding: 0;
+}
+.main-info {
+  color: #ee7fa0;
+  font-size: 16px;
+  list-style: none;
+  
+}
+.main-img {
+  height: 64px;
+  display: inline block;
+  filter: drop-shadow(0 0 0.75rem #fd99ff);
+}
+.temperature {
+  vertical-align: middle;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 64px;
+  
 }
