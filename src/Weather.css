@@ -22,11 +22,7 @@
   list-style: none;
   
 }
-.Weather canvas {
-  height: 64px;
-  display: inline block;
-  filter: drop-shadow(0 0 0.75rem #fd99ff);
-}
+
 .temperature {
   vertical-align: middle;
   font-weight: bold;
