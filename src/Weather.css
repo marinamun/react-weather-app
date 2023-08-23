@@ -45,18 +45,16 @@
   font-weight: bold;
   list-style: none;
 }
-.current-temperature{
-    color: #c54c82;
-    font-family: "PT Mono", monospace;
-    font-size: 40px;
+.current-temperature {
+  color: #c54c82;
+  font-family: "PT Mono", monospace;
+  font-size: 40px;
+  margin-right: 20px;
 }
 canvas {
   height: fit-content;
-  margin-left: 40px;
-  margin-right: 15px;
-  margin-top: 15px;
-  margin-bottom: 15px;
   
+  margin: 15px auto;
 }
 
 .first-section {
@@ -73,7 +71,4 @@ canvas {
   border-radius: 20px;
   background-color: white;
   background: rgba(255, 255, 255, 0.8);
-  
-  
-   
 }
